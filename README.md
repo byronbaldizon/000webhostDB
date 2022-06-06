@@ -1,5 +1,6 @@
-# 000webhostDB
-Set up and php code for 000webhost database testing
+# 000webhostDB and FILEZILLA SETUP
+php code for 000webhost database testing and Filezilla setup
+for FTP file transfer.
 
 ## PURPOSE
 This is a .php file for a 000Webhostapp hosting.  The code is:
@@ -34,7 +35,13 @@ This is a .php file for a 000Webhostapp hosting.  The code is:
       
   ## SETUP DATA
   Data were taken from 000Webhost form:
+    <p align="center">
+        <img width="800" height="500" src="https://i.postimg.cc/6QzhKnwx/database-Setup-Data.png">
+    </p>
+  ## FILEZILLA setup for FTP file transfer
   <p align="center">
-   <img width="800" height="500" src="https://i.postimg.cc/6QzhKnwx/database-Setup-Data.png">
-</p>
+        <img width="600" height="300" src="https://i.postimg.cc/d0gkCj2Y/filezilla-Setup.png">
+    </p>
+  
+  
 
