@@ -3,9 +3,9 @@ Set up and php code for 000webhost database
 
 ## PURPOSE
 This is a .php file for a 000Webhostapp hosting.  The code is:
-Indented code
 
-    // Some comments
+
+    
     <?php
 
           $servername = "localhost";
