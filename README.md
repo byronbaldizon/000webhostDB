@@ -35,6 +35,6 @@ This is a .php file for a 000Webhostapp hosting.  The code is:
   ## SETUP DATA
   Data were taken from 000Webhost form:
   <p align="center">
-   <img width="700" height="500" src="https://i.postimg.cc/6QzhKnwx/database-Setup-Data.png">
+   <img width="800" height="500" src="https://i.postimg.cc/6QzhKnwx/database-Setup-Data.png">
 </p>
 
