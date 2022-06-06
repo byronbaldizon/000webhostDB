@@ -1,5 +1,5 @@
 # 000webhostDB
-Set up and php code for 000webhost database 
+Set up and php code for 000webhost database testing
 
 ## PURPOSE
 This is a .php file for a 000Webhostapp hosting.  The code is:
