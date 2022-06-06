@@ -4,7 +4,7 @@ Set up and php code for 000webhost database
 ## PURPOSE
 This is a .php file for a 000Webhostapp hosting.  The code is:
 
-
+´´´ php
     
     <?php
 
@@ -31,4 +31,4 @@ This is a .php file for a 000Webhostapp hosting.  The code is:
           $sql2="INSERT INTO clientes (id,nombre,apellido,celular) VALUES (NULL,'$nombre','$apellido','$celular')";
           mysqli_query($conn,$sql2);
       ?>
-
+´´´
