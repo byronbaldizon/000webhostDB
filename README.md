@@ -31,4 +31,10 @@ This is a .php file for a 000Webhostapp hosting.  The code is:
           $sql2="INSERT INTO clientes (id,nombre,apellido,celular) VALUES (NULL,'$nombre','$apellido','$celular')";
           mysqli_query($conn,$sql2);
       ?>
+      
+  ## SETUP DATA
+  Data were taken from 000Webhost form:
+  <p align="center">
+   <img width="700" height="500" src="https://i.postimg.cc/6QzhKnwx/database-Setup-Data.png">
+</p>
 
